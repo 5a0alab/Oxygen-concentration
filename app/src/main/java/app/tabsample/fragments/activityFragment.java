@@ -7,6 +7,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
 
 import com.github.mikephil.charting.charts.BarChart;
@@ -25,13 +26,17 @@ import app.tabsample.util.MyXAxisValueFormatter;
 
 /**
  * Created by adilsoomro on 8/19/16.
+ * Edit by Jim YMU lab421 2016/11/27
  */
+
 public class activityFragment extends Fragment{
     public BarChart barChart;
     public ArrayList<BarEntry> entries=new ArrayList<BarEntry>();
     public BarDataSet dataset;
+    public ImageView zoomin,zoomout;
+
     public String[] labels = new String[] {"0", "1", "2", "3", "4", "5",  "6", "7", "8", "9", "10", "11",  "12", "13", "14", "15", "16", "17",  "18", "19", "20", "21", "22", "23"};;
-    public int[] activity = new int[] {5,2,3,0,0,0,0,0,0,1,1,0,0,6,5,10,66,67,80,120,289,547,600,321};
+    public int[] activity = new int[24];
 
     @Nullable
     @Override
@@ -39,21 +44,30 @@ public class activityFragment extends Fragment{
         View view = inflater.inflate(R.layout.activity_layout, container, false);
         setView(view);
         setListener(view);
+
+        addData();
         EntriesData();
+
         show();
         return view;
     }
     //初始化view
     public void setView(View view){
         barChart= (BarChart) view.findViewById(R.id.bar_chart);
+        zoomin= (ImageView) view.findViewById(R.id.zoomin);
+        zoomout= (ImageView) view.findViewById(R.id.zoomout);
     }
     //初始化listener
     public void setListener(View view){
         barChart.setOnClickListener(barViewClick);
+        zoomout.setOnClickListener(zoomoutClick);
+        zoomin.setOnClickListener(zoominClick);
     }
     //data setting
     public void addData(){
-        //activity[0]=10;
+        for (int i = 0; i < 24; i++) {
+            activity[i]=(int)(Math.random()*1000);
+        }
     }
     //entris data
     public void EntriesData(){
@@ -92,6 +106,22 @@ public class activityFragment extends Fragment{
         public void onClick(View v) {
             // do something when the button is clicked
             barChart.fitScreen();
+        }
+    };
+
+    //zoomout
+    private View.OnClickListener zoomoutClick = new View.OnClickListener() {
+        public void onClick(View v) {
+            // do something when the button is clicked
+            barChart.zoomOut();
+        }
+    };
+
+    //zoomin
+    private View.OnClickListener zoominClick = new View.OnClickListener() {
+        public void onClick(View v) {
+            // do something when the button is clicked
+            barChart.zoomIn();
         }
     };
 
