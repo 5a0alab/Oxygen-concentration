@@ -11,6 +11,7 @@
 	<color name="theme_color_primary">#1c9359</color>
 	<color name="theme_color_primary_light">#3aaf75</color>
 	<color name="theme_color_accent">#084e43</color>
+	<color name="barcolor">#9ACD32</color>
 
 
 	<color name="tab_border">#a7a7aa</color>

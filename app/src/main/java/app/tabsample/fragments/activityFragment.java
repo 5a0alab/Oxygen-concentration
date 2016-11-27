@@ -4,6 +4,7 @@ package app.tabsample.fragments;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -37,11 +38,12 @@ public class activityFragment extends Fragment{
 
     public String[] labels = new String[] {"0", "1", "2", "3", "4", "5",  "6", "7", "8", "9", "10", "11",  "12", "13", "14", "15", "16", "17",  "18", "19", "20", "21", "22", "23"};;
     public int[] activity = new int[24];
-
+    public int[] activityBarColor = new int[24];
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.activity_layout, container, false);
+
         setView(view);
         setListener(view);
 
@@ -66,7 +68,9 @@ public class activityFragment extends Fragment{
     //data setting
     public void addData(){
         for (int i = 0; i < 24; i++) {
-            activity[i]=(int)(Math.random()*1000);
+            activity[i]=(int)(Math.random()*1500);
+            //設定bar顏色
+            //activityBarColor[i]= setBarColor(activity[i]);
         }
     }
     //entris data
@@ -79,6 +83,7 @@ public class activityFragment extends Fragment{
     public void show(){
         dataset= new BarDataSet(entries,getResources().getString(R.string.activity));
         BarData data=new BarData(dataset);
+        dataset.setColors(ColorTemplate.VORDIPLOM_COLORS[3]);
 
         //設定X軸
         XAxis xAxis = barChart.getXAxis();
@@ -95,11 +100,33 @@ public class activityFragment extends Fragment{
         barChart.setData(data);
         barChart.setFitBars(true); // make the x-axis fit exactly all bars
 
-        //取消highlight
-        barChart.setHighlightPerDragEnabled(false);
-        barChart.setHighlightPerTapEnabled(false);
+        //highlight
+        barChart.setHighlightPerDragEnabled(true);
+        barChart.setHighlightPerTapEnabled(true);
         barChart.invalidate(); // refresh
     }
+
+//    //設定bar的color 根據不同的活動量
+//    public int setBarColor(int barActivityCount){
+//        int color;
+//
+//        if(barActivityCount<=10){
+//            color=ColorTemplate.VORDIPLOM_COLORS[0];
+//        }
+//        else if(barActivityCount>10 && barActivityCount<=100){
+//            color=ColorTemplate.VORDIPLOM_COLORS[1];
+//        }
+//        else if(barActivityCount>100 && barActivityCount<=500){
+//            color=ColorTemplate.VORDIPLOM_COLORS[2];
+//        }
+//        else if(barActivityCount>500 && barActivityCount<=1000){
+//            color=ColorTemplate.VORDIPLOM_COLORS[3];
+//        }
+//        else{
+//            color=ColorTemplate.VORDIPLOM_COLORS[4];
+//        }
+//        return color;
+//    }
 
     //畫面禁止room in out
     private View.OnClickListener barViewClick = new View.OnClickListener() {
@@ -124,5 +151,4 @@ public class activityFragment extends Fragment{
             barChart.zoomIn();
         }
     };
-
 }

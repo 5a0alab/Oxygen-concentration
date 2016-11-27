@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-	<item android:drawable="@drawable/home_blue_tint"
+	<item android:drawable="@drawable/contacttint_25"
 		android:state_selected="true" />
-	<item android:drawable="@drawable/home_normal" />
+	<item android:drawable="@drawable/contact_25" />
+	<!--58 145 255-->
 </selector> 
