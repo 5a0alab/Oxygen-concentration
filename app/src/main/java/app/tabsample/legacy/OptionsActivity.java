@@ -12,7 +12,7 @@ import app.tabsample.R;
 public class OptionsActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.search_layout);
+        setContentView(R.layout.activity_layout);
         
         
     }

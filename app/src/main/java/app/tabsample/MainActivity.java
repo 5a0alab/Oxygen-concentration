@@ -13,7 +13,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import app.tabsample.fragments.HomeFragment;
-import app.tabsample.fragments.SearchFragment;
+import app.tabsample.fragments.activityFragment;
+import app.tabsample.fragments.spoFragment;
 //import app.tabsample.legacy.TabSample;
 
 
@@ -30,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
 		int[] icons = {R.drawable.tab_home,
 				R.drawable.tab_search,
 				R.drawable.tab_home,
-				//R.drawable.tab_search
 		};
 		TabLayout tabLayout = (TabLayout) findViewById(R.id.tab_layout);
 		ViewPager viewPager = (ViewPager) findViewById(R.id.main_tab_content);
@@ -49,9 +49,8 @@ public class MainActivity extends AppCompatActivity {
 	private void setupViewPager(ViewPager viewPager) {
 		ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
 		adapter.insertNewFragment(new HomeFragment());
-		adapter.insertNewFragment(new SearchFragment());
-		adapter.insertNewFragment(new HomeFragment());
-		//adapter.insertNewFragment(new SearchFragment());
+		adapter.insertNewFragment(new activityFragment());
+		adapter.insertNewFragment(new spoFragment());
 		viewPager.setAdapter(adapter);
 	}
 
@@ -76,23 +75,5 @@ public class MainActivity extends AppCompatActivity {
 		}
 	}
 
-//	@Override
-//	public boolean onCreateOptionsMenu(Menu menu) {
-//		MenuInflater inflater = this.getMenuInflater();
-//		inflater.inflate(R.menu.main_activity, menu);
-//		return true;
-//	}
-
-//	@Override
-//	public boolean onOptionsItemSelected(MenuItem item) {
-//		switch (item.getItemId()) {
-//
-//			case R.id.action_settings:
-//				Intent settingsIntent = new Intent(this, TabSample.class);
-//				startActivity(settingsIntent);
-//			default:
-//				return super.onOptionsItemSelected(item);
-//		}
-//	}
 
 }

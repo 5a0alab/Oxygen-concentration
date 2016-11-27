@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "outputFile": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 547
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/src/main/res/values-v21/styles.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
@@ -51,7 +51,7 @@
                     "endOffset": 638
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 741
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 844
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 949
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 1056
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 1165
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 1274
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1383
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1492
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1601
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1708
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1811
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1930
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -299,7 +299,7 @@
                     "endOffset": 2085
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -320,7 +320,7 @@
                     "endOffset": 2240
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 2345
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 2466
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 2567
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 2714
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -419,7 +419,7 @@
                     "endOffset": 2855
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -439,7 +439,7 @@
                     "endOffset": 2958
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -458,7 +458,7 @@
                     "endOffset": 3077
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -477,7 +477,7 @@
                     "endOffset": 3184
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -496,7 +496,7 @@
                     "endOffset": 3287
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 3434
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3589
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3760
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3909
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 4074
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 4231
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -642,7 +642,7 @@
                     "endOffset": 4382
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -663,7 +663,7 @@
                     "endOffset": 4531
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -684,7 +684,7 @@
                     "endOffset": 4680
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -704,7 +704,7 @@
                     "endOffset": 4792
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -723,7 +723,7 @@
                     "endOffset": 4939
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
@@ -743,7 +743,7 @@
                     "endOffset": 5092
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -764,7 +764,7 @@
                     "endOffset": 5239
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -784,7 +784,7 @@
                     "endOffset": 5314
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
@@ -803,7 +803,7 @@
                     "endOffset": 5403
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -822,7 +822,7 @@
                     "endOffset": 5490
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
@@ -841,7 +841,7 @@
                     "endOffset": 5591
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
@@ -861,7 +861,7 @@
                     "endOffset": 9075
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 4,
@@ -882,7 +882,7 @@
                     "endOffset": 9261
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 4,
@@ -903,7 +903,7 @@
                     "endOffset": 12757
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
@@ -924,7 +924,7 @@
                     "endOffset": 12955
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -945,7 +945,7 @@
                     "endOffset": 13078
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -966,7 +966,7 @@
                     "endOffset": 13201
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -987,7 +987,7 @@
                     "endOffset": 13314
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 186,
                         "startColumn": 4,
@@ -1008,7 +1008,7 @@
                     "endOffset": 13497
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1029,7 +1029,7 @@
                     "endOffset": 13628
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1049,7 +1049,7 @@
                     "endOffset": 13745
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1068,7 +1068,7 @@
                     "endOffset": 13834
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1087,7 +1087,7 @@
                     "endOffset": 13945
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
@@ -1106,7 +1106,7 @@
                     "endOffset": 14072
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1125,7 +1125,7 @@
                     "endOffset": 14173
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -1144,7 +1144,7 @@
                     "endOffset": 14268
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -1163,7 +1163,7 @@
                     "endOffset": 14391
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -1182,7 +1182,7 @@
                     "endOffset": 14520
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1201,7 +1201,7 @@
                     "endOffset": 14637
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 201,
                         "startColumn": 4,
@@ -1221,7 +1221,7 @@
                     "endOffset": 14772
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1242,7 +1242,7 @@
                     "endOffset": 14915
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1263,7 +1263,7 @@
                     "endOffset": 15050
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -1284,7 +1284,7 @@
                     "endOffset": 15169
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -1305,7 +1305,7 @@
                     "endOffset": 15370
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -1326,7 +1326,7 @@
                     "endOffset": 15489
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 214,
                         "startColumn": 4,
@@ -1346,7 +1346,7 @@
                     "endOffset": 15582
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -1365,7 +1365,7 @@
                     "endOffset": 15693
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1384,7 +1384,7 @@
                     "endOffset": 15749
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1404,7 +1404,7 @@
                     "endOffset": 15856
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1425,7 +1425,7 @@
                     "endOffset": 16051
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -1446,7 +1446,7 @@
                     "endOffset": 16162
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 225,
                         "startColumn": 4,
@@ -1467,7 +1467,7 @@
                     "endOffset": 16295
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 227,
                         "startColumn": 4,
@@ -1487,7 +1487,7 @@
                     "endOffset": 16390
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 229,
                         "startColumn": 4,
@@ -1506,7 +1506,7 @@
                     "endOffset": 16481
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1526,7 +1526,7 @@
                     "endOffset": 16790
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1546,7 +1546,7 @@
                     "endOffset": 16903
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 236,
                         "startColumn": 4,
@@ -1565,7 +1565,7 @@
                     "endOffset": 17020
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
@@ -1585,7 +1585,7 @@
                     "endOffset": 17159
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -1606,7 +1606,7 @@
                     "endOffset": 17512
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 242,
                         "startColumn": 4,
@@ -1627,7 +1627,7 @@
                     "endOffset": 17877
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 249,
                         "startColumn": 4,
@@ -1648,7 +1648,7 @@
                     "endOffset": 18562
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
@@ -1669,7 +1669,7 @@
                     "endOffset": 19248
                 },
                 "from": {
-                    "file": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -1678,6 +1678,1089 @@
                         "endColumn": 12,
                         "endOffset": 21422
                     }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endLine": 14,
+                    "endColumn": 9,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 56,
+                        "endLine": 14,
+                        "endColumn": 9,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endLine": 18,
+                    "endColumn": 9,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 499,
+                        "endLine": 18,
+                        "endColumn": 9,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 90,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 102,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 102,
+                    "endOffset": 1019
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1024,
+                    "endColumn": 104,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1129,
+                    "endColumn": 106,
+                    "endOffset": 1231
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1236,
+                    "endColumn": 108,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 108,
+                    "endOffset": 1449
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1454,
+                    "endColumn": 108,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1563,
+                    "endColumn": 108,
+                    "endOffset": 1667
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1672,
+                    "endColumn": 108,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endColumn": 106,
+                    "endOffset": 1883
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1888,
+                    "endColumn": 102,
+                    "endOffset": 1986
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1991,
+                    "endColumn": 118,
+                    "endOffset": 2105
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2110,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2260
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2265,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2415
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2420,
+                    "endColumn": 104,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endColumn": 120,
+                    "endOffset": 2641
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2646,
+                    "endColumn": 100,
+                    "endOffset": 2742
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2747,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2889
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2894,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 3030
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3035,
+                    "endColumn": 102,
+                    "endOffset": 3133
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3138,
+                    "endColumn": 118,
+                    "endOffset": 3252
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3257,
+                    "endColumn": 106,
+                    "endOffset": 3359
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3364,
+                    "endColumn": 102,
+                    "endOffset": 3462
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3467,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3609
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3614,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3764
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3769,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3935
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3940,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 4084
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4089,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4249
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4254,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 4406
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4411,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 4557
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4562,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 4706
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4711,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4855
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4860,
+                    "endColumn": 111,
+                    "endOffset": 4967
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4972,
+                    "endColumn": 146,
+                    "endOffset": 5114
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5119,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 5267
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5272,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 5414
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5419,
+                    "endColumn": 74,
+                    "endOffset": 5489
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5494,
+                    "endColumn": 88,
+                    "endOffset": 5578
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5583,
+                    "endColumn": 86,
+                    "endOffset": 5665
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5670,
+                    "endColumn": 100,
+                    "endOffset": 5766
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5771,
+                    "endLine": 123,
+                    "endColumn": 12,
+                    "endOffset": 9250
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 9255,
+                    "endLine": 126,
+                    "endColumn": 12,
+                    "endOffset": 9436
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 9441,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 12932
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 12937,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 13130
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13135,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 13253
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13258,
+                    "endLine": 182,
+                    "endColumn": 12,
+                    "endOffset": 13376
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13381,
+                    "endLine": 184,
+                    "endColumn": 12,
+                    "endOffset": 13489
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 13494,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 13672
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 13677,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 13803
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 13808,
+                    "endColumn": 116,
+                    "endOffset": 13920
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 13925,
+                    "endColumn": 88,
+                    "endOffset": 14009
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14014,
+                    "endColumn": 110,
+                    "endOffset": 14120
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14125,
+                    "endColumn": 126,
+                    "endOffset": 14247
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14252,
+                    "endColumn": 100,
+                    "endOffset": 14348
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 14353,
+                    "endColumn": 94,
+                    "endOffset": 14443
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14448,
+                    "endColumn": 122,
+                    "endOffset": 14566
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 14571,
+                    "endColumn": 128,
+                    "endOffset": 14695
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 14700,
+                    "endColumn": 116,
+                    "endOffset": 14812
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 14817,
+                    "endLine": 200,
+                    "endColumn": 12,
+                    "endOffset": 14947
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 14952,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 15090
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15095,
+                    "endLine": 204,
+                    "endColumn": 12,
+                    "endOffset": 15225
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 15230,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 15344
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 15349,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 15545
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15550,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 15664
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15669,
+                    "endColumn": 92,
+                    "endOffset": 15757
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 15762,
+                    "endColumn": 110,
+                    "endOffset": 15868
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 15873,
+                    "endColumn": 55,
+                    "endOffset": 15924
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 15929,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 16031
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16036,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 16226
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 16231,
+                    "endLine": 223,
+                    "endColumn": 12,
+                    "endOffset": 16337
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16342,
+                    "endLine": 225,
+                    "endColumn": 12,
+                    "endOffset": 16470
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 16475,
+                    "endColumn": 94,
+                    "endOffset": 16565
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16570,
+                    "endColumn": 90,
+                    "endOffset": 16656
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 16661,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 16965
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 16970,
+                    "endColumn": 112,
+                    "endOffset": 17078
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 17083,
+                    "endColumn": 116,
+                    "endOffset": 17195
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 17200,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 17334
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 17339,
+                    "endLine": 243,
+                    "endColumn": 12,
+                    "endOffset": 17687
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 17692,
+                    "endLine": 250,
+                    "endColumn": 12,
+                    "endOffset": 18052
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 18057,
+                    "endLine": 260,
+                    "endColumn": 12,
+                    "endOffset": 18737
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 18742,
+                    "endLine": 270,
+                    "endColumn": 12,
+                    "endOffset": 19423
+                },
+                "from": {
+                    "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
                 }
             }
         ]

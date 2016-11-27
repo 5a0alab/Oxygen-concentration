@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
-        "source": "/Users/jim/Desktop/Iphone-Tab-in-Android/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\jim\\Desktop\\Iphone-Tab-in-Android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     }
 ]
