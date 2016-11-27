@@ -38,6 +38,7 @@ public class activityFragment extends Fragment{
 
     public String[] labels = new String[] {"0", "1", "2", "3", "4", "5",  "6", "7", "8", "9", "10", "11",  "12", "13", "14", "15", "16", "17",  "18", "19", "20", "21", "22", "23"};;
     public int[] activity = new int[24];
+    public int[] activitytemp = new int[]{13,2,1,3,0,0,0,0,32,25,121,321,200,300,400,200,300,220,54,204,620,200,50,20};
     public int[] activityBarColor = new int[24];
     @Nullable
     @Override
@@ -76,14 +77,14 @@ public class activityFragment extends Fragment{
     //entris data
     public void EntriesData(){
         for (int i = 0; i <24 ; i++) {
-            entries.add(new BarEntry(i, activity[i]));
+            entries.add(new BarEntry(i, activitytemp[i]));
         }
     }
 
     public void show(){
         dataset= new BarDataSet(entries,getResources().getString(R.string.activity));
         BarData data=new BarData(dataset);
-        dataset.setColors(ColorTemplate.VORDIPLOM_COLORS[3]);
+        dataset.setColors(ColorTemplate.LIBERTY_COLORS);
 
         //設定X軸
         XAxis xAxis = barChart.getXAxis();
