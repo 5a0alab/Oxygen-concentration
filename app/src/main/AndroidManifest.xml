@@ -7,12 +7,12 @@
     <uses-sdk android:minSdkVersion="7"></uses-sdk>
 
     <application
-        android:icon="@drawable/icon"
         android:theme="@style/AppTheme">
         <!--android:theme="@style/AppTheme.NoActionBar"-->
         <activity
             android:name=".MainActivity"
-            android:label=""
+            android:label="健康小助手"
+            android:icon="@drawable/blood_25"
             android:layout_gravity="center">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

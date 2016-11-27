@@ -8,15 +8,14 @@
         android:minSdkVersion="16"
         android:targetSdkVersion="22" />
 
-    <application
-        android:icon="@drawable/icon"
-        android:theme="@style/AppTheme" >
+    <application android:theme="@style/AppTheme" >
 
         <!-- android:theme="@style/AppTheme.NoActionBar" -->
         <activity
             android:name="app.tabsample.MainActivity"
             android:layout_gravity="center"
-            android:label="" >
+            android:icon="@drawable/blood_25"
+            android:label="健康小助手" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

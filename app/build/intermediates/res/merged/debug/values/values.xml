@@ -265,7 +265,7 @@
     <string name="app_name"/>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="homepageName">個人狀態</string>
-    <string name="noteName">健康手冊</string>
+    <string name="noteName">健康小助手</string>
     <string name="spoName">血氧心跳量</string>
     <string name="status">今日狀態良好</string>
     <string name="status_bar_notification_info_overflow">999+</string>

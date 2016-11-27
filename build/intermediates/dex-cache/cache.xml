@@ -1,3 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\jim\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.1_271ca967a789a9f3330caea829462c71cdb6f397.jar" />
+    </item>
+    <item
+        jar="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_295beed31f49fc5f7207e26855b0d586a431ad21.jar" />
+    </item>
+    <item
+        jar="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_c46ec35339045d80829267ce30abb85514cf5122.jar" />
+    </item>
+    <item
+        jar="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_966dc183b8bbeb45baedba25a787a28cd61fb192.jar" />
+    </item>
+    <item
+        jar="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_2c25796ccc75961e6968090455d185387bd1d18b.jar" />
+    </item>
+    <item
+        jar="C:\Users\jim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\jim\Desktop\Oxygen-concentration\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_0f76601cb568d71be9c8d5244d5ff701052ee1ac.jar" />
+    </item>
+
+</items>

@@ -7,7 +7,7 @@
     <string name="homepageName">個人狀態</string>
     <string name="activityName">活動量</string>
     <string name="spoName">血氧心跳量</string>
-    <string name="noteName">健康手冊</string>
+    <string name="noteName">健康小助手</string>
 
     <string-array name="Spinner_Content">
         <item>One</item>

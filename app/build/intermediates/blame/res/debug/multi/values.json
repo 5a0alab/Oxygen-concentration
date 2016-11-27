@@ -2684,8 +2684,8 @@
                     "startLine": 267,
                     "startColumn": 4,
                     "startOffset": 34684,
-                    "endColumn": 41,
-                    "endOffset": 34721
+                    "endColumn": 42,
+                    "endOffset": 34722
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\values\\strings.xml",
@@ -2693,8 +2693,8 @@
                         "startLine": 9,
                         "startColumn": 4,
                         "startOffset": 319,
-                        "endColumn": 41,
-                        "endOffset": 356
+                        "endColumn": 42,
+                        "endOffset": 357
                     }
                 }
             },
@@ -2702,9 +2702,9 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 34726,
+                    "startOffset": 34727,
                     "endColumn": 41,
-                    "endOffset": 34763
+                    "endOffset": 34764
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\values\\strings.xml"
@@ -2714,9 +2714,9 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 34768,
+                    "startOffset": 34769,
                     "endColumn": 41,
-                    "endOffset": 34805
+                    "endOffset": 34806
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\values\\strings.xml"
@@ -2726,9 +2726,9 @@
                 "to": {
                     "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 34810,
+                    "startOffset": 34811,
                     "endColumn": 70,
-                    "endOffset": 34876
+                    "endOffset": 34877
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2738,9 +2738,9 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 34881,
+                    "startOffset": 34882,
                     "endColumn": 77,
-                    "endOffset": 34954
+                    "endOffset": 34955
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2750,9 +2750,9 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 34959,
+                    "startOffset": 34960,
                     "endColumn": 89,
-                    "endOffset": 35044
+                    "endOffset": 35045
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2762,9 +2762,9 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 35049,
+                    "startOffset": 35050,
                     "endColumn": 87,
-                    "endOffset": 35132
+                    "endOffset": 35133
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2774,9 +2774,9 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 35137,
+                    "startOffset": 35138,
                     "endColumn": 95,
-                    "endOffset": 35228
+                    "endOffset": 35229
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2786,10 +2786,10 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 35233,
+                    "startOffset": 35234,
                     "endLine": 280,
                     "endColumn": 9,
-                    "endOffset": 35508
+                    "endOffset": 35509
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\values\\styles.xml"
@@ -2799,10 +2799,10 @@
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 35513,
+                    "startOffset": 35514,
                     "endLine": 292,
                     "endColumn": 12,
-                    "endOffset": 35945
+                    "endOffset": 35946
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\values\\styles.xml"
@@ -2812,10 +2812,10 @@
                 "to": {
                     "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 35950,
+                    "startOffset": 35951,
                     "endLine": 296,
                     "endColumn": 9,
-                    "endOffset": 36123
+                    "endOffset": 36124
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\values\\styles.xml"
@@ -2825,10 +2825,10 @@
                 "to": {
                     "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 36128,
+                    "startOffset": 36129,
                     "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 36624
+                    "endOffset": 36625
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2838,9 +2838,9 @@
                 "to": {
                     "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 36629,
+                    "startOffset": 36630,
                     "endColumn": 88,
-                    "endOffset": 36713
+                    "endOffset": 36714
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2850,10 +2850,10 @@
                 "to": {
                     "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 36718,
+                    "startOffset": 36719,
                     "endLine": 308,
                     "endColumn": 12,
-                    "endOffset": 36960
+                    "endOffset": 36961
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2863,10 +2863,10 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 36965,
+                    "startOffset": 36966,
                     "endLine": 312,
                     "endColumn": 12,
-                    "endOffset": 37241
+                    "endOffset": 37242
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2876,10 +2876,10 @@
                 "to": {
                     "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 37246,
+                    "startOffset": 37247,
                     "endLine": 317,
                     "endColumn": 12,
-                    "endOffset": 37526
+                    "endOffset": 37527
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2889,10 +2889,10 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 37531,
+                    "startOffset": 37532,
                     "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 37919
+                    "endOffset": 37920
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2902,10 +2902,10 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 37924,
+                    "startOffset": 37925,
                     "endLine": 330,
                     "endColumn": 12,
-                    "endOffset": 38396
+                    "endOffset": 38397
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2915,10 +2915,10 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 38401,
+                    "startOffset": 38402,
                     "endLine": 334,
                     "endColumn": 12,
-                    "endOffset": 38618
+                    "endOffset": 38619
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2928,10 +2928,10 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 38623,
+                    "startOffset": 38624,
                     "endLine": 338,
                     "endColumn": 12,
-                    "endOffset": 38840
+                    "endOffset": 38841
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2941,10 +2941,10 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 38845,
+                    "startOffset": 38846,
                     "endLine": 343,
                     "endColumn": 12,
-                    "endOffset": 39108
+                    "endOffset": 39109
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2954,10 +2954,10 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 39113,
+                    "startOffset": 39114,
                     "endLine": 347,
                     "endColumn": 12,
-                    "endOffset": 39335
+                    "endOffset": 39336
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2967,10 +2967,10 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 39340,
+                    "startOffset": 39341,
                     "endLine": 351,
                     "endColumn": 12,
-                    "endOffset": 39565
+                    "endOffset": 39566
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2980,10 +2980,10 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 39570,
+                    "startOffset": 39571,
                     "endLine": 355,
                     "endColumn": 12,
-                    "endOffset": 39795
+                    "endOffset": 39796
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -2993,10 +2993,10 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 39800,
+                    "startOffset": 39801,
                     "endLine": 359,
                     "endColumn": 12,
-                    "endOffset": 40025
+                    "endOffset": 40026
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3006,10 +3006,10 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 40030,
+                    "startOffset": 40031,
                     "endLine": 363,
                     "endColumn": 12,
-                    "endOffset": 40255
+                    "endOffset": 40256
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3019,10 +3019,10 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 40260,
+                    "startOffset": 40261,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 40482
+                    "endOffset": 40483
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3032,10 +3032,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 40487,
+                    "startOffset": 40488,
                     "endLine": 371,
                     "endColumn": 12,
-                    "endOffset": 40721
+                    "endOffset": 40722
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3045,10 +3045,10 @@
                 "to": {
                     "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 40726,
+                    "startOffset": 40727,
                     "endLine": 375,
                     "endColumn": 12,
-                    "endOffset": 40947
+                    "endOffset": 40948
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3058,10 +3058,10 @@
                 "to": {
                     "startLine": 376,
                     "startColumn": 4,
-                    "startOffset": 40952,
+                    "startOffset": 40953,
                     "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 41192
+                    "endOffset": 41193
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3071,10 +3071,10 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 41197,
+                    "startOffset": 41198,
                     "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 41322
+                    "endOffset": 41323
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3084,10 +3084,10 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 41327,
+                    "startOffset": 41328,
                     "endLine": 383,
                     "endColumn": 12,
-                    "endOffset": 41452
+                    "endOffset": 41453
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3097,10 +3097,10 @@
                 "to": {
                     "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 41457,
+                    "startOffset": 41458,
                     "endLine": 387,
                     "endColumn": 12,
-                    "endOffset": 41682
+                    "endOffset": 41683
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3110,10 +3110,10 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 41687,
+                    "startOffset": 41688,
                     "endLine": 391,
                     "endColumn": 12,
-                    "endOffset": 41930
+                    "endOffset": 41931
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3123,10 +3123,10 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 41935,
+                    "startOffset": 41936,
                     "endLine": 395,
                     "endColumn": 12,
-                    "endOffset": 42149
+                    "endOffset": 42150
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3136,10 +3136,10 @@
                 "to": {
                     "startLine": 396,
                     "startColumn": 4,
-                    "startOffset": 42154,
+                    "startOffset": 42155,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 42432
+                    "endOffset": 42433
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3149,10 +3149,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 42437,
+                    "startOffset": 42438,
                     "endLine": 404,
                     "endColumn": 12,
-                    "endOffset": 42640
+                    "endOffset": 42641
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3162,10 +3162,10 @@
                 "to": {
                     "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 42645,
+                    "startOffset": 42646,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 42771
+                    "endOffset": 42772
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3175,10 +3175,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 42776,
+                    "startOffset": 42777,
                     "endLine": 411,
                     "endColumn": 12,
-                    "endOffset": 42998
+                    "endOffset": 42999
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3188,10 +3188,10 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 43003,
+                    "startOffset": 43004,
                     "endLine": 415,
                     "endColumn": 12,
-                    "endOffset": 43244
+                    "endOffset": 43245
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3201,10 +3201,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 43249,
+                    "startOffset": 43250,
                     "endLine": 419,
                     "endColumn": 12,
-                    "endOffset": 43469
+                    "endOffset": 43470
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3214,10 +3214,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 43474,
+                    "startOffset": 43475,
                     "endLine": 423,
                     "endColumn": 12,
-                    "endOffset": 43718
+                    "endOffset": 43719
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3227,10 +3227,10 @@
                 "to": {
                     "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 43723,
+                    "startOffset": 43724,
                     "endLine": 427,
                     "endColumn": 12,
-                    "endOffset": 43939
+                    "endOffset": 43940
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3240,10 +3240,10 @@
                 "to": {
                     "startLine": 428,
                     "startColumn": 4,
-                    "startOffset": 43944,
+                    "startOffset": 43945,
                     "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 44184
+                    "endOffset": 44185
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3253,10 +3253,10 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 44189,
+                    "startOffset": 44190,
                     "endLine": 436,
                     "endColumn": 12,
-                    "endOffset": 44479
+                    "endOffset": 44480
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3266,10 +3266,10 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 44484,
+                    "startOffset": 44485,
                     "endLine": 439,
                     "endColumn": 12,
-                    "endOffset": 44701
+                    "endOffset": 44702
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3279,10 +3279,10 @@
                 "to": {
                     "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 44706,
+                    "startOffset": 44707,
                     "endLine": 442,
                     "endColumn": 12,
-                    "endOffset": 44939
+                    "endOffset": 44940
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3292,10 +3292,10 @@
                 "to": {
                     "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 44944,
+                    "startOffset": 44945,
                     "endLine": 445,
                     "endColumn": 12,
-                    "endOffset": 45153
+                    "endOffset": 45154
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3305,10 +3305,10 @@
                 "to": {
                     "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 45158,
+                    "startOffset": 45159,
                     "endLine": 448,
                     "endColumn": 12,
-                    "endOffset": 45383
+                    "endOffset": 45384
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3318,10 +3318,10 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 45388,
+                    "startOffset": 45389,
                     "endLine": 451,
                     "endColumn": 12,
-                    "endOffset": 45606
+                    "endOffset": 45607
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3331,10 +3331,10 @@
                 "to": {
                     "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 45611,
+                    "startOffset": 45612,
                     "endLine": 454,
                     "endColumn": 12,
-                    "endOffset": 45821
+                    "endOffset": 45822
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3344,10 +3344,10 @@
                 "to": {
                     "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 45826,
+                    "startOffset": 45827,
                     "endLine": 457,
                     "endColumn": 12,
-                    "endOffset": 46029
+                    "endOffset": 46030
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3357,10 +3357,10 @@
                 "to": {
                     "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 46034,
+                    "startOffset": 46035,
                     "endLine": 459,
                     "endColumn": 12,
-                    "endOffset": 46153
+                    "endOffset": 46154
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3370,10 +3370,10 @@
                 "to": {
                     "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 46158,
+                    "startOffset": 46159,
                     "endLine": 461,
                     "endColumn": 12,
-                    "endOffset": 46277
+                    "endOffset": 46278
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3383,9 +3383,9 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 46282,
+                    "startOffset": 46283,
                     "endColumn": 104,
-                    "endOffset": 46382
+                    "endOffset": 46383
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3395,9 +3395,9 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 46387,
+                    "startOffset": 46388,
                     "endColumn": 116,
-                    "endOffset": 46499
+                    "endOffset": 46500
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3407,10 +3407,10 @@
                 "to": {
                     "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 46504,
+                    "startOffset": 46505,
                     "endLine": 466,
                     "endColumn": 12,
-                    "endOffset": 46713
+                    "endOffset": 46714
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3420,10 +3420,10 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 46718,
+                    "startOffset": 46719,
                     "endLine": 468,
                     "endColumn": 12,
-                    "endOffset": 46859
+                    "endOffset": 46860
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3433,10 +3433,10 @@
                 "to": {
                     "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 46864,
+                    "startOffset": 46865,
                     "endLine": 470,
                     "endColumn": 12,
-                    "endOffset": 46999
+                    "endOffset": 47000
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3446,10 +3446,10 @@
                 "to": {
                     "startLine": 471,
                     "startColumn": 4,
-                    "startOffset": 47004,
+                    "startOffset": 47005,
                     "endLine": 472,
                     "endColumn": 12,
-                    "endOffset": 47085
+                    "endOffset": 47086
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3459,10 +3459,10 @@
                 "to": {
                     "startLine": 473,
                     "startColumn": 4,
-                    "startOffset": 47090,
+                    "startOffset": 47091,
                     "endLine": 477,
                     "endColumn": 12,
-                    "endOffset": 47433
+                    "endOffset": 47434
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3472,9 +3472,9 @@
                 "to": {
                     "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 47438,
+                    "startOffset": 47439,
                     "endColumn": 87,
-                    "endOffset": 47521
+                    "endOffset": 47522
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3484,10 +3484,10 @@
                 "to": {
                     "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 47526,
+                    "startOffset": 47527,
                     "endLine": 482,
                     "endColumn": 12,
-                    "endOffset": 47751
+                    "endOffset": 47752
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3497,10 +3497,10 @@
                 "to": {
                     "startLine": 483,
                     "startColumn": 4,
-                    "startOffset": 47756,
+                    "startOffset": 47757,
                     "endLine": 488,
                     "endColumn": 12,
-                    "endOffset": 48153
+                    "endOffset": 48154
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3510,10 +3510,10 @@
                 "to": {
                     "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 48158,
+                    "startOffset": 48159,
                     "endLine": 492,
                     "endColumn": 12,
-                    "endOffset": 48386
+                    "endOffset": 48387
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3523,9 +3523,9 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 48391,
+                    "startOffset": 48392,
                     "endColumn": 81,
-                    "endOffset": 48468
+                    "endOffset": 48469
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3535,10 +3535,10 @@
                 "to": {
                     "startLine": 494,
                     "startColumn": 4,
-                    "startOffset": 48473,
+                    "startOffset": 48474,
                     "endLine": 495,
                     "endColumn": 12,
-                    "endOffset": 48566
+                    "endOffset": 48567
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3548,10 +3548,10 @@
                 "to": {
                     "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 48571,
+                    "startOffset": 48572,
                     "endLine": 506,
                     "endColumn": 12,
-                    "endOffset": 49183
+                    "endOffset": 49184
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3561,9 +3561,9 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 49188,
+                    "startOffset": 49189,
                     "endColumn": 99,
-                    "endOffset": 49283
+                    "endOffset": 49284
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3573,10 +3573,10 @@
                 "to": {
                     "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 49288,
+                    "startOffset": 49289,
                     "endLine": 511,
                     "endColumn": 12,
-                    "endOffset": 49519
+                    "endOffset": 49520
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3586,10 +3586,10 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 49524,
+                    "startOffset": 49525,
                     "endLine": 517,
                     "endColumn": 12,
-                    "endOffset": 49927
+                    "endOffset": 49928
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3599,10 +3599,10 @@
                 "to": {
                     "startLine": 518,
                     "startColumn": 4,
-                    "startOffset": 49932,
+                    "startOffset": 49933,
                     "endLine": 521,
                     "endColumn": 12,
-                    "endOffset": 50166
+                    "endOffset": 50167
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3612,9 +3612,9 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 50171,
+                    "startOffset": 50172,
                     "endColumn": 93,
-                    "endOffset": 50260
+                    "endOffset": 50261
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3624,9 +3624,9 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 50265,
+                    "startOffset": 50266,
                     "endColumn": 57,
-                    "endOffset": 50318
+                    "endOffset": 50319
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3636,10 +3636,10 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 50323,
+                    "startOffset": 50324,
                     "endLine": 527,
                     "endColumn": 12,
-                    "endOffset": 50555
+                    "endOffset": 50556
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3649,10 +3649,10 @@
                 "to": {
                     "startLine": 528,
                     "startColumn": 4,
-                    "startOffset": 50560,
+                    "startOffset": 50561,
                     "endLine": 554,
                     "endColumn": 12,
-                    "endOffset": 52555
+                    "endOffset": 52556
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3662,10 +3662,10 @@
                 "to": {
                     "startLine": 555,
                     "startColumn": 4,
-                    "startOffset": 52560,
+                    "startOffset": 52561,
                     "endLine": 558,
                     "endColumn": 12,
-                    "endOffset": 52797
+                    "endOffset": 52798
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3675,10 +3675,10 @@
                 "to": {
                     "startLine": 559,
                     "startColumn": 4,
-                    "startOffset": 52802,
+                    "startOffset": 52803,
                     "endLine": 586,
                     "endColumn": 12,
-                    "endOffset": 54975
+                    "endOffset": 54976
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3688,10 +3688,10 @@
                 "to": {
                     "startLine": 587,
                     "startColumn": 4,
-                    "startOffset": 54980,
+                    "startOffset": 54981,
                     "endLine": 732,
                     "endColumn": 12,
-                    "endOffset": 64254
+                    "endOffset": 64255
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3701,10 +3701,10 @@
                 "to": {
                     "startLine": 733,
                     "startColumn": 4,
-                    "startOffset": 64259,
+                    "startOffset": 64260,
                     "endLine": 754,
                     "endColumn": 12,
-                    "endOffset": 65521
+                    "endOffset": 65522
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3714,10 +3714,10 @@
                 "to": {
                     "startLine": 755,
                     "startColumn": 4,
-                    "startOffset": 65526,
+                    "startOffset": 65527,
                     "endLine": 900,
                     "endColumn": 12,
-                    "endOffset": 74910
+                    "endOffset": 74911
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3727,10 +3727,10 @@
                 "to": {
                     "startLine": 901,
                     "startColumn": 4,
-                    "startOffset": 74915,
+                    "startOffset": 74916,
                     "endLine": 922,
                     "endColumn": 12,
-                    "endOffset": 76191
+                    "endOffset": 76192
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3740,10 +3740,10 @@
                 "to": {
                     "startLine": 923,
                     "startColumn": 4,
-                    "startOffset": 76196,
+                    "startOffset": 76197,
                     "endLine": 929,
                     "endColumn": 12,
-                    "endOffset": 76727
+                    "endOffset": 76728
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3753,10 +3753,10 @@
                 "to": {
                     "startLine": 930,
                     "startColumn": 4,
-                    "startOffset": 76732,
+                    "startOffset": 76733,
                     "endLine": 934,
                     "endColumn": 12,
-                    "endOffset": 77057
+                    "endOffset": 77058
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3766,10 +3766,10 @@
                 "to": {
                     "startLine": 935,
                     "startColumn": 4,
-                    "startOffset": 77062,
+                    "startOffset": 77063,
                     "endLine": 955,
                     "endColumn": 12,
-                    "endOffset": 78180
+                    "endOffset": 78181
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3779,10 +3779,10 @@
                 "to": {
                     "startLine": 956,
                     "startColumn": 4,
-                    "startOffset": 78185,
+                    "startOffset": 78186,
                     "endLine": 960,
                     "endColumn": 12,
-                    "endOffset": 78436
+                    "endOffset": 78437
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3792,10 +3792,10 @@
                 "to": {
                     "startLine": 961,
                     "startColumn": 4,
-                    "startOffset": 78441,
+                    "startOffset": 78442,
                     "endLine": 965,
                     "endColumn": 12,
-                    "endOffset": 78672
+                    "endOffset": 78673
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3805,10 +3805,10 @@
                 "to": {
                     "startLine": 966,
                     "startColumn": 4,
-                    "startOffset": 78677,
+                    "startOffset": 78678,
                     "endLine": 975,
                     "endColumn": 12,
-                    "endOffset": 79219
+                    "endOffset": 79220
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3818,10 +3818,10 @@
                 "to": {
                     "startLine": 976,
                     "startColumn": 4,
-                    "startOffset": 79224,
+                    "startOffset": 79225,
                     "endLine": 984,
                     "endColumn": 12,
-                    "endOffset": 79713
+                    "endOffset": 79714
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3831,10 +3831,10 @@
                 "to": {
                     "startLine": 985,
                     "startColumn": 4,
-                    "startOffset": 79718,
+                    "startOffset": 79719,
                     "endLine": 995,
                     "endColumn": 12,
-                    "endOffset": 80386
+                    "endOffset": 80387
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3844,10 +3844,10 @@
                 "to": {
                     "startLine": 996,
                     "startColumn": 4,
-                    "startOffset": 80391,
+                    "startOffset": 80392,
                     "endLine": 999,
                     "endColumn": 12,
-                    "endOffset": 80601
+                    "endOffset": 80602
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3857,10 +3857,10 @@
                 "to": {
                     "startLine": 1000,
                     "startColumn": 4,
-                    "startOffset": 80606,
+                    "startOffset": 80607,
                     "endLine": 1006,
                     "endColumn": 12,
-                    "endOffset": 81129
+                    "endOffset": 81130
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3870,10 +3870,10 @@
                 "to": {
                     "startLine": 1007,
                     "startColumn": 4,
-                    "startOffset": 81134,
+                    "startOffset": 81135,
                     "endLine": 1014,
                     "endColumn": 12,
-                    "endOffset": 81693
+                    "endOffset": 81694
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3883,10 +3883,10 @@
                 "to": {
                     "startLine": 1015,
                     "startColumn": 4,
-                    "startOffset": 81698,
+                    "startOffset": 81699,
                     "endLine": 1021,
                     "endColumn": 12,
-                    "endOffset": 82068
+                    "endOffset": 82069
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3896,9 +3896,9 @@
                 "to": {
                     "startLine": 1022,
                     "startColumn": 4,
-                    "startOffset": 82073,
+                    "startOffset": 82074,
                     "endColumn": 117,
-                    "endOffset": 82186
+                    "endOffset": 82187
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3908,10 +3908,10 @@
                 "to": {
                     "startLine": 1023,
                     "startColumn": 4,
-                    "startOffset": 82191,
+                    "startOffset": 82192,
                     "endLine": 1031,
                     "endColumn": 12,
-                    "endOffset": 82724
+                    "endOffset": 82725
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3921,10 +3921,10 @@
                 "to": {
                     "startLine": 1032,
                     "startColumn": 4,
-                    "startOffset": 82729,
+                    "startOffset": 82730,
                     "endLine": 1034,
                     "endColumn": 12,
-                    "endOffset": 82881
+                    "endOffset": 82882
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3934,10 +3934,10 @@
                 "to": {
                     "startLine": 1035,
                     "startColumn": 4,
-                    "startOffset": 82886,
+                    "startOffset": 82887,
                     "endLine": 1037,
                     "endColumn": 12,
-                    "endOffset": 83025
+                    "endOffset": 83026
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3947,10 +3947,10 @@
                 "to": {
                     "startLine": 1038,
                     "startColumn": 4,
-                    "startOffset": 83030,
+                    "startOffset": 83031,
                     "endLine": 1042,
                     "endColumn": 12,
-                    "endOffset": 83345
+                    "endOffset": 83346
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3960,10 +3960,10 @@
                 "to": {
                     "startLine": 1043,
                     "startColumn": 4,
-                    "startOffset": 83350,
+                    "startOffset": 83351,
                     "endLine": 1046,
                     "endColumn": 12,
-                    "endOffset": 83515
+                    "endOffset": 83516
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3973,10 +3973,10 @@
                 "to": {
                     "startLine": 1047,
                     "startColumn": 4,
-                    "startOffset": 83520,
+                    "startOffset": 83521,
                     "endLine": 1049,
                     "endColumn": 12,
-                    "endOffset": 83656
+                    "endOffset": 83657
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3986,10 +3986,10 @@
                 "to": {
                     "startLine": 1050,
                     "startColumn": 4,
-                    "startOffset": 83661,
+                    "startOffset": 83662,
                     "endLine": 1052,
                     "endColumn": 12,
-                    "endOffset": 83785
+                    "endOffset": 83786
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -3999,10 +3999,10 @@
                 "to": {
                     "startLine": 1053,
                     "startColumn": 4,
-                    "startOffset": 83790,
+                    "startOffset": 83791,
                     "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 84084
+                    "endOffset": 84085
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4012,10 +4012,10 @@
                 "to": {
                     "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 84089,
+                    "startOffset": 84090,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 84387
+                    "endOffset": 84388
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4025,10 +4025,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 84392,
+                    "startOffset": 84393,
                     "endLine": 1068,
                     "endColumn": 12,
-                    "endOffset": 84946
+                    "endOffset": 84947
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4038,10 +4038,10 @@
                 "to": {
                     "startLine": 1069,
                     "startColumn": 4,
-                    "startOffset": 84951,
+                    "startOffset": 84952,
                     "endLine": 1073,
                     "endColumn": 12,
-                    "endOffset": 85208
+                    "endOffset": 85209
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4051,10 +4051,10 @@
                 "to": {
                     "startLine": 1074,
                     "startColumn": 4,
-                    "startOffset": 85213,
+                    "startOffset": 85214,
                     "endLine": 1080,
                     "endColumn": 12,
-                    "endOffset": 85558
+                    "endOffset": 85559
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4064,10 +4064,10 @@
                 "to": {
                     "startLine": 1081,
                     "startColumn": 4,
-                    "startOffset": 85563,
+                    "startOffset": 85564,
                     "endLine": 1086,
                     "endColumn": 12,
-                    "endOffset": 85911
+                    "endOffset": 85912
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4077,9 +4077,9 @@
                 "to": {
                     "startLine": 1087,
                     "startColumn": 4,
-                    "startOffset": 85916,
+                    "startOffset": 85917,
                     "endColumn": 93,
-                    "endOffset": 86005
+                    "endOffset": 86006
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4089,10 +4089,10 @@
                 "to": {
                     "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 86010,
+                    "startOffset": 86011,
                     "endLine": 1091,
                     "endColumn": 12,
-                    "endOffset": 86311
+                    "endOffset": 86312
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4102,10 +4102,10 @@
                 "to": {
                     "startLine": 1092,
                     "startColumn": 4,
-                    "startOffset": 86316,
+                    "startOffset": 86317,
                     "endLine": 1096,
                     "endColumn": 12,
-                    "endOffset": 86573
+                    "endOffset": 86574
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4115,10 +4115,10 @@
                 "to": {
                     "startLine": 1097,
                     "startColumn": 4,
-                    "startOffset": 86578,
+                    "startOffset": 86579,
                     "endLine": 1098,
                     "endColumn": 12,
-                    "endOffset": 86698
+                    "endOffset": 86699
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4128,10 +4128,10 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 86703,
+                    "startOffset": 86704,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 86825
+                    "endOffset": 86826
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4141,10 +4141,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 86830,
+                    "startOffset": 86831,
                     "endLine": 1103,
                     "endColumn": 12,
-                    "endOffset": 87064
+                    "endOffset": 87065
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4154,10 +4154,10 @@
                 "to": {
                     "startLine": 1104,
                     "startColumn": 4,
-                    "startOffset": 87069,
+                    "startOffset": 87070,
                     "endLine": 1106,
                     "endColumn": 12,
-                    "endOffset": 87275
+                    "endOffset": 87276
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4167,10 +4167,10 @@
                 "to": {
                     "startLine": 1107,
                     "startColumn": 4,
-                    "startOffset": 87280,
+                    "startOffset": 87281,
                     "endLine": 1108,
                     "endColumn": 12,
-                    "endOffset": 87394
+                    "endOffset": 87395
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4180,10 +4180,10 @@
                 "to": {
                     "startLine": 1109,
                     "startColumn": 4,
-                    "startOffset": 87399,
+                    "startOffset": 87400,
                     "endLine": 1112,
                     "endColumn": 12,
-                    "endOffset": 87587
+                    "endOffset": 87588
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4193,10 +4193,10 @@
                 "to": {
                     "startLine": 1113,
                     "startColumn": 4,
-                    "startOffset": 87592,
+                    "startOffset": 87593,
                     "endLine": 1119,
                     "endColumn": 12,
-                    "endOffset": 88042
+                    "endOffset": 88043
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4206,10 +4206,10 @@
                 "to": {
                     "startLine": 1120,
                     "startColumn": 4,
-                    "startOffset": 88047,
+                    "startOffset": 88048,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 88223
+                    "endOffset": 88224
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4219,10 +4219,10 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 88228,
+                    "startOffset": 88229,
                     "endLine": 1125,
                     "endColumn": 12,
-                    "endOffset": 88345
+                    "endOffset": 88346
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4232,10 +4232,10 @@
                 "to": {
                     "startLine": 1126,
                     "startColumn": 4,
-                    "startOffset": 88350,
+                    "startOffset": 88351,
                     "endLine": 1129,
                     "endColumn": 12,
-                    "endOffset": 88604
+                    "endOffset": 88605
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4245,10 +4245,10 @@
                 "to": {
                     "startLine": 1130,
                     "startColumn": 4,
-                    "startOffset": 88609,
+                    "startOffset": 88610,
                     "endLine": 1131,
                     "endColumn": 12,
-                    "endOffset": 88717
+                    "endOffset": 88718
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4258,10 +4258,10 @@
                 "to": {
                     "startLine": 1132,
                     "startColumn": 4,
-                    "startOffset": 88722,
+                    "startOffset": 88723,
                     "endLine": 1135,
                     "endColumn": 12,
-                    "endOffset": 88904
+                    "endOffset": 88905
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4271,10 +4271,10 @@
                 "to": {
                     "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 88909,
+                    "startOffset": 88910,
                     "endLine": 1137,
                     "endColumn": 12,
-                    "endOffset": 89006
+                    "endOffset": 89007
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4284,10 +4284,10 @@
                 "to": {
                     "startLine": 1138,
                     "startColumn": 4,
-                    "startOffset": 89011,
+                    "startOffset": 89012,
                     "endLine": 1143,
                     "endColumn": 12,
-                    "endOffset": 89450
+                    "endOffset": 89451
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4297,10 +4297,10 @@
                 "to": {
                     "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 89455,
+                    "startOffset": 89456,
                     "endLine": 1145,
                     "endColumn": 12,
-                    "endOffset": 89574
+                    "endOffset": 89575
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4310,10 +4310,10 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 89579,
+                    "startOffset": 89580,
                     "endLine": 1149,
                     "endColumn": 12,
-                    "endOffset": 89859
+                    "endOffset": 89860
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4323,10 +4323,10 @@
                 "to": {
                     "startLine": 1150,
                     "startColumn": 4,
-                    "startOffset": 89864,
+                    "startOffset": 89865,
                     "endLine": 1161,
                     "endColumn": 12,
-                    "endOffset": 90746
+                    "endOffset": 90747
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4336,10 +4336,10 @@
                 "to": {
                     "startLine": 1162,
                     "startColumn": 4,
-                    "startOffset": 90751,
+                    "startOffset": 90752,
                     "endLine": 1167,
                     "endColumn": 12,
-                    "endOffset": 91040
+                    "endOffset": 91041
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4349,10 +4349,10 @@
                 "to": {
                     "startLine": 1168,
                     "startColumn": 4,
-                    "startOffset": 91045,
+                    "startOffset": 91046,
                     "endLine": 1172,
                     "endColumn": 12,
-                    "endOffset": 91370
+                    "endOffset": 91371
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4362,10 +4362,10 @@
                 "to": {
                     "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 91375,
+                    "startOffset": 91376,
                     "endLine": 1187,
                     "endColumn": 12,
-                    "endOffset": 92290
+                    "endOffset": 92291
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4375,10 +4375,10 @@
                 "to": {
                     "startLine": 1188,
                     "startColumn": 4,
-                    "startOffset": 92295,
+                    "startOffset": 92296,
                     "endLine": 1190,
                     "endColumn": 12,
-                    "endOffset": 92462
+                    "endOffset": 92463
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4388,10 +4388,10 @@
                 "to": {
                     "startLine": 1191,
                     "startColumn": 4,
-                    "startOffset": 92467,
+                    "startOffset": 92468,
                     "endLine": 1195,
                     "endColumn": 12,
-                    "endOffset": 92798
+                    "endOffset": 92799
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4401,10 +4401,10 @@
                 "to": {
                     "startLine": 1196,
                     "startColumn": 4,
-                    "startOffset": 92803,
+                    "startOffset": 92804,
                     "endLine": 1205,
                     "endColumn": 12,
-                    "endOffset": 93464
+                    "endOffset": 93465
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4414,10 +4414,10 @@
                 "to": {
                     "startLine": 1206,
                     "startColumn": 4,
-                    "startOffset": 93469,
+                    "startOffset": 93470,
                     "endLine": 1210,
                     "endColumn": 12,
-                    "endOffset": 93749
+                    "endOffset": 93750
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4427,10 +4427,10 @@
                 "to": {
                     "startLine": 1211,
                     "startColumn": 4,
-                    "startOffset": 93754,
+                    "startOffset": 93755,
                     "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 94333
+                    "endOffset": 94334
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -4440,10 +4440,10 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 94338,
+                    "startOffset": 94339,
                     "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 97222
+                    "endOffset": 97223
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4453,10 +4453,10 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 97227,
+                    "startOffset": 97228,
                     "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 100252
+                    "endOffset": 100253
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4466,10 +4466,10 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 100257,
+                    "startOffset": 100258,
                     "endLine": 1307,
                     "endColumn": 12,
-                    "endOffset": 100892
+                    "endOffset": 100893
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4479,10 +4479,10 @@
                 "to": {
                     "startLine": 1308,
                     "startColumn": 4,
-                    "startOffset": 100897,
+                    "startOffset": 100898,
                     "endLine": 1316,
                     "endColumn": 12,
-                    "endOffset": 101516
+                    "endOffset": 101517
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4492,10 +4492,10 @@
                 "to": {
                     "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 101521,
+                    "startOffset": 101522,
                     "endLine": 1318,
                     "endColumn": 12,
-                    "endOffset": 101629
+                    "endOffset": 101630
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4505,10 +4505,10 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 101634,
+                    "startOffset": 101635,
                     "endLine": 1322,
                     "endColumn": 12,
-                    "endOffset": 101858
+                    "endOffset": 101859
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4518,10 +4518,10 @@
                 "to": {
                     "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 101863,
+                    "startOffset": 101864,
                     "endLine": 1326,
                     "endColumn": 12,
-                    "endOffset": 102196
+                    "endOffset": 102197
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4531,10 +4531,10 @@
                 "to": {
                     "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 102201,
+                    "startOffset": 102202,
                     "endLine": 1329,
                     "endColumn": 12,
-                    "endOffset": 102356
+                    "endOffset": 102357
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4544,10 +4544,10 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 102361,
+                    "startOffset": 102362,
                     "endLine": 1332,
                     "endColumn": 12,
-                    "endOffset": 102508
+                    "endOffset": 102509
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4557,10 +4557,10 @@
                 "to": {
                     "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 102513,
+                    "startOffset": 102514,
                     "endLine": 1335,
                     "endColumn": 12,
-                    "endOffset": 102679
+                    "endOffset": 102680
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4570,10 +4570,10 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 102684,
+                    "startOffset": 102685,
                     "endLine": 1338,
                     "endColumn": 12,
-                    "endOffset": 102846
+                    "endOffset": 102847
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4583,10 +4583,10 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 102851,
+                    "startOffset": 102852,
                     "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 103089
+                    "endOffset": 103090
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4596,10 +4596,10 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 103094,
+                    "startOffset": 103095,
                     "endLine": 1345,
                     "endColumn": 12,
-                    "endOffset": 103259
+                    "endOffset": 103260
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4609,10 +4609,10 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 103264,
+                    "startOffset": 103265,
                     "endLine": 1348,
                     "endColumn": 12,
-                    "endOffset": 103432
+                    "endOffset": 103433
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4622,10 +4622,10 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 103437,
+                    "startOffset": 103438,
                     "endLine": 1351,
                     "endColumn": 12,
-                    "endOffset": 103603
+                    "endOffset": 103604
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4635,10 +4635,10 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 103608,
+                    "startOffset": 103609,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 103877
+                    "endOffset": 103878
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4648,10 +4648,10 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 103882,
+                    "startOffset": 103883,
                     "endLine": 1358,
                     "endColumn": 12,
-                    "endOffset": 104076
+                    "endOffset": 104077
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4661,10 +4661,10 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 104081,
+                    "startOffset": 104082,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 104323
+                    "endOffset": 104324
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4674,9 +4674,9 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 104328,
+                    "startOffset": 104329,
                     "endColumn": 83,
-                    "endOffset": 104407
+                    "endOffset": 104408
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4686,9 +4686,9 @@
                 "to": {
                     "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 104412,
+                    "startOffset": 104413,
                     "endColumn": 95,
-                    "endOffset": 104503
+                    "endOffset": 104504
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4698,9 +4698,9 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 104508,
+                    "startOffset": 104509,
                     "endColumn": 95,
-                    "endOffset": 104599
+                    "endOffset": 104600
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4710,9 +4710,9 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 104604,
+                    "startOffset": 104605,
                     "endColumn": 97,
-                    "endOffset": 104697
+                    "endOffset": 104698
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4722,9 +4722,9 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 104702,
+                    "startOffset": 104703,
                     "endColumn": 99,
-                    "endOffset": 104797
+                    "endOffset": 104798
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4734,9 +4734,9 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 104802,
+                    "startOffset": 104803,
                     "endColumn": 101,
-                    "endOffset": 104899
+                    "endOffset": 104900
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4746,9 +4746,9 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 104904,
+                    "startOffset": 104905,
                     "endColumn": 101,
-                    "endOffset": 105001
+                    "endOffset": 105002
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4758,9 +4758,9 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 105006,
+                    "startOffset": 105007,
                     "endColumn": 101,
-                    "endOffset": 105103
+                    "endOffset": 105104
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4770,9 +4770,9 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 105108,
+                    "startOffset": 105109,
                     "endColumn": 101,
-                    "endOffset": 105205
+                    "endOffset": 105206
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4782,9 +4782,9 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 105210,
+                    "startOffset": 105211,
                     "endColumn": 101,
-                    "endOffset": 105307
+                    "endOffset": 105308
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4794,9 +4794,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 105312,
+                    "startOffset": 105313,
                     "endColumn": 99,
-                    "endOffset": 105407
+                    "endOffset": 105408
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4806,9 +4806,9 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 105412,
+                    "startOffset": 105413,
                     "endColumn": 95,
-                    "endOffset": 105503
+                    "endOffset": 105504
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4818,9 +4818,9 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 105508,
+                    "startOffset": 105509,
                     "endColumn": 111,
-                    "endOffset": 105615
+                    "endOffset": 105616
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4830,9 +4830,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 105620,
+                    "startOffset": 105621,
                     "endColumn": 128,
-                    "endOffset": 105744
+                    "endOffset": 105745
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4842,9 +4842,9 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 105749,
+                    "startOffset": 105750,
                     "endColumn": 122,
-                    "endOffset": 105867
+                    "endOffset": 105868
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4854,10 +4854,10 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 105872,
+                    "startOffset": 105873,
                     "endLine": 1378,
                     "endColumn": 12,
-                    "endOffset": 106021
+                    "endOffset": 106022
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4867,10 +4867,10 @@
                 "to": {
                     "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 106026,
+                    "startOffset": 106027,
                     "endLine": 1380,
                     "endColumn": 12,
-                    "endOffset": 106175
+                    "endOffset": 106176
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4880,9 +4880,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 106180,
+                    "startOffset": 106181,
                     "endColumn": 97,
-                    "endOffset": 106273
+                    "endOffset": 106274
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4892,9 +4892,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 106278,
+                    "startOffset": 106279,
                     "endColumn": 113,
-                    "endOffset": 106387
+                    "endOffset": 106388
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4904,9 +4904,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 106392,
+                    "startOffset": 106393,
                     "endColumn": 93,
-                    "endOffset": 106481
+                    "endOffset": 106482
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4916,10 +4916,10 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 106486,
+                    "startOffset": 106487,
                     "endLine": 1385,
                     "endColumn": 12,
-                    "endOffset": 106621
+                    "endOffset": 106622
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4929,10 +4929,10 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 106626,
+                    "startOffset": 106627,
                     "endLine": 1387,
                     "endColumn": 12,
-                    "endOffset": 106755
+                    "endOffset": 106756
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4942,9 +4942,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 106760,
+                    "startOffset": 106761,
                     "endColumn": 95,
-                    "endOffset": 106851
+                    "endOffset": 106852
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4954,9 +4954,9 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 106856,
+                    "startOffset": 106857,
                     "endColumn": 111,
-                    "endOffset": 106963
+                    "endOffset": 106964
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4966,9 +4966,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 106968,
+                    "startOffset": 106969,
                     "endColumn": 99,
-                    "endOffset": 107063
+                    "endOffset": 107064
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4978,9 +4978,9 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 107068,
+                    "startOffset": 107069,
                     "endColumn": 115,
-                    "endOffset": 107179
+                    "endOffset": 107180
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -4990,9 +4990,9 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 107184,
+                    "startOffset": 107185,
                     "endColumn": 95,
-                    "endOffset": 107275
+                    "endOffset": 107276
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5002,9 +5002,9 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 107280,
+                    "startOffset": 107281,
                     "endColumn": 111,
-                    "endOffset": 107387
+                    "endOffset": 107388
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5014,10 +5014,10 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 107392,
+                    "startOffset": 107393,
                     "endLine": 1395,
                     "endColumn": 12,
-                    "endOffset": 107527
+                    "endOffset": 107528
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5027,10 +5027,10 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 107532,
+                    "startOffset": 107533,
                     "endLine": 1397,
                     "endColumn": 12,
-                    "endOffset": 107675
+                    "endOffset": 107676
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5040,10 +5040,10 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 107680,
+                    "startOffset": 107681,
                     "endLine": 1399,
                     "endColumn": 12,
-                    "endOffset": 107839
+                    "endOffset": 107840
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5053,10 +5053,10 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 107844,
+                    "startOffset": 107845,
                     "endLine": 1401,
                     "endColumn": 12,
-                    "endOffset": 107981
+                    "endOffset": 107982
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5066,10 +5066,10 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 107986,
+                    "startOffset": 107987,
                     "endLine": 1403,
                     "endColumn": 12,
-                    "endOffset": 108139
+                    "endOffset": 108140
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5079,10 +5079,10 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 108144,
+                    "startOffset": 108145,
                     "endLine": 1405,
                     "endColumn": 12,
-                    "endOffset": 108289
+                    "endOffset": 108290
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5092,9 +5092,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 108294,
+                    "startOffset": 108295,
                     "endColumn": 140,
-                    "endOffset": 108430
+                    "endOffset": 108431
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5104,10 +5104,10 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 108435,
+                    "startOffset": 108436,
                     "endLine": 1408,
                     "endColumn": 12,
-                    "endOffset": 108574
+                    "endOffset": 108575
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5117,9 +5117,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 108579,
+                    "startOffset": 108580,
                     "endColumn": 134,
-                    "endOffset": 108709
+                    "endOffset": 108710
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5129,10 +5129,10 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 108714,
+                    "startOffset": 108715,
                     "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 108845
+                    "endOffset": 108846
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5142,10 +5142,10 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 108850,
+                    "startOffset": 108851,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 108987
+                    "endOffset": 108988
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5155,10 +5155,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 108992,
+                    "startOffset": 108993,
                     "endLine": 1415,
                     "endColumn": 12,
-                    "endOffset": 109129
+                    "endOffset": 109130
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5168,9 +5168,9 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 109134,
+                    "startOffset": 109135,
                     "endColumn": 111,
-                    "endOffset": 109241
+                    "endOffset": 109242
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5180,9 +5180,9 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 109246,
+                    "startOffset": 109247,
                     "endColumn": 139,
-                    "endOffset": 109381
+                    "endOffset": 109382
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5192,10 +5192,10 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 109386,
+                    "startOffset": 109387,
                     "endLine": 1420,
                     "endColumn": 12,
-                    "endOffset": 109548
+                    "endOffset": 109549
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -5205,10 +5205,10 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 109553,
+                    "startOffset": 109554,
                     "endLine": 1423,
                     "endColumn": 12,
-                    "endOffset": 109723
+                    "endOffset": 109724
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -5218,10 +5218,10 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 109728,
+                    "startOffset": 109729,
                     "endLine": 1426,
                     "endColumn": 12,
-                    "endOffset": 109893
+                    "endOffset": 109894
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -5231,10 +5231,10 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 109898,
+                    "startOffset": 109899,
                     "endLine": 1430,
                     "endColumn": 12,
-                    "endOffset": 110139
+                    "endOffset": 110140
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -5244,10 +5244,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 110144,
+                    "startOffset": 110145,
                     "endLine": 1435,
                     "endColumn": 12,
-                    "endOffset": 110407
+                    "endOffset": 110408
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -5257,9 +5257,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 110412,
+                    "startOffset": 110413,
                     "endColumn": 67,
-                    "endOffset": 110475
+                    "endOffset": 110476
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5269,9 +5269,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 110480,
+                    "startOffset": 110481,
                     "endColumn": 72,
-                    "endOffset": 110548
+                    "endOffset": 110549
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5281,9 +5281,9 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 110553,
+                    "startOffset": 110554,
                     "endColumn": 73,
-                    "endOffset": 110622
+                    "endOffset": 110623
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5293,9 +5293,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 110627,
+                    "startOffset": 110628,
                     "endColumn": 72,
-                    "endOffset": 110695
+                    "endOffset": 110696
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5305,9 +5305,9 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 110700,
+                    "startOffset": 110701,
                     "endColumn": 73,
-                    "endOffset": 110769
+                    "endOffset": 110770
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5317,10 +5317,10 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 110774,
+                    "startOffset": 110775,
                     "endLine": 1442,
                     "endColumn": 12,
-                    "endOffset": 110915
+                    "endOffset": 110916
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5330,10 +5330,10 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 110920,
+                    "startOffset": 110921,
                     "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 111059
+                    "endOffset": 111060
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5343,10 +5343,10 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 111064,
+                    "startOffset": 111065,
                     "endLine": 1446,
                     "endColumn": 12,
-                    "endOffset": 111197
+                    "endOffset": 111198
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5356,9 +5356,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 111202,
+                    "startOffset": 111203,
                     "endColumn": 65,
-                    "endOffset": 111263
+                    "endOffset": 111264
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5368,9 +5368,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 111268,
+                    "startOffset": 111269,
                     "endColumn": 89,
-                    "endOffset": 111353
+                    "endOffset": 111354
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5380,9 +5380,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 111358,
+                    "startOffset": 111359,
                     "endColumn": 79,
-                    "endOffset": 111433
+                    "endOffset": 111434
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5392,9 +5392,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 111438,
+                    "startOffset": 111439,
                     "endColumn": 91,
-                    "endOffset": 111525
+                    "endOffset": 111526
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5404,9 +5404,9 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 111530,
+                    "startOffset": 111531,
                     "endColumn": 97,
-                    "endOffset": 111623
+                    "endOffset": 111624
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5416,10 +5416,10 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 111628,
+                    "startOffset": 111629,
                     "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 111733
+                    "endOffset": 111734
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5429,9 +5429,9 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 111738,
+                    "startOffset": 111739,
                     "endColumn": 77,
-                    "endOffset": 111811
+                    "endOffset": 111812
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5441,9 +5441,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 111816,
+                    "startOffset": 111817,
                     "endColumn": 105,
-                    "endOffset": 111917
+                    "endOffset": 111918
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5453,9 +5453,9 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 111922,
+                    "startOffset": 111923,
                     "endColumn": 91,
-                    "endOffset": 112009
+                    "endOffset": 112010
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5465,9 +5465,9 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 112014,
+                    "startOffset": 112015,
                     "endColumn": 103,
-                    "endOffset": 112113
+                    "endOffset": 112114
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5477,9 +5477,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 112118,
+                    "startOffset": 112119,
                     "endColumn": 109,
-                    "endOffset": 112223
+                    "endOffset": 112224
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5489,10 +5489,10 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 112228,
+                    "startOffset": 112229,
                     "endLine": 1460,
                     "endColumn": 12,
-                    "endOffset": 112345
+                    "endOffset": 112346
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5502,10 +5502,10 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 112350,
+                    "startOffset": 112351,
                     "endLine": 1464,
                     "endColumn": 12,
-                    "endOffset": 112508
+                    "endOffset": 112509
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5515,10 +5515,10 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 112513,
+                    "startOffset": 112514,
                     "endLine": 1468,
                     "endColumn": 12,
-                    "endOffset": 112665
+                    "endOffset": 112666
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5528,9 +5528,9 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 112670,
+                    "startOffset": 112671,
                     "endColumn": 79,
-                    "endOffset": 112745
+                    "endOffset": 112746
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5540,9 +5540,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 112750,
+                    "startOffset": 112751,
                     "endColumn": 99,
-                    "endOffset": 112845
+                    "endOffset": 112846
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5552,9 +5552,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 112850,
+                    "startOffset": 112851,
                     "endColumn": 89,
-                    "endOffset": 112935
+                    "endOffset": 112936
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5564,9 +5564,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 112940,
+                    "startOffset": 112941,
                     "endColumn": 109,
-                    "endOffset": 113045
+                    "endOffset": 113046
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5576,9 +5576,9 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 113050,
+                    "startOffset": 113051,
                     "endColumn": 91,
-                    "endOffset": 113137
+                    "endOffset": 113138
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5588,10 +5588,10 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 113142,
+                    "startOffset": 113143,
                     "endLine": 1475,
                     "endColumn": 12,
-                    "endOffset": 113237
+                    "endOffset": 113238
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5601,10 +5601,10 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 113242,
+                    "startOffset": 113243,
                     "endLine": 1477,
                     "endColumn": 12,
-                    "endOffset": 113349
+                    "endOffset": 113350
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5614,10 +5614,10 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 113354,
+                    "startOffset": 113355,
                     "endLine": 1479,
                     "endColumn": 12,
-                    "endOffset": 113463
+                    "endOffset": 113464
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5627,10 +5627,10 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 113468,
+                    "startOffset": 113469,
                     "endLine": 1481,
                     "endColumn": 12,
-                    "endOffset": 113579
+                    "endOffset": 113580
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5640,10 +5640,10 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 113584,
+                    "startOffset": 113585,
                     "endLine": 1483,
                     "endColumn": 12,
-                    "endOffset": 113695
+                    "endOffset": 113696
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5653,9 +5653,9 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 113700,
+                    "startOffset": 113701,
                     "endColumn": 93,
-                    "endOffset": 113789
+                    "endOffset": 113790
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5665,9 +5665,9 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 113794,
+                    "startOffset": 113795,
                     "endColumn": 113,
-                    "endOffset": 113903
+                    "endOffset": 113904
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5677,9 +5677,9 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 113908,
+                    "startOffset": 113909,
                     "endColumn": 117,
-                    "endOffset": 114021
+                    "endOffset": 114022
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5689,10 +5689,10 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 114026,
+                    "startOffset": 114027,
                     "endLine": 1488,
                     "endColumn": 12,
-                    "endOffset": 114123
+                    "endOffset": 114124
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5702,10 +5702,10 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 114128,
+                    "startOffset": 114129,
                     "endLine": 1490,
                     "endColumn": 12,
-                    "endOffset": 114243
+                    "endOffset": 114244
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5715,10 +5715,10 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 114248,
+                    "startOffset": 114249,
                     "endLine": 1492,
                     "endColumn": 12,
-                    "endOffset": 114365
+                    "endOffset": 114366
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5728,9 +5728,9 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 114370,
+                    "startOffset": 114371,
                     "endColumn": 81,
-                    "endOffset": 114447
+                    "endOffset": 114448
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5740,9 +5740,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 114452,
+                    "startOffset": 114453,
                     "endColumn": 103,
-                    "endOffset": 114551
+                    "endOffset": 114552
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5752,9 +5752,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 114556,
+                    "startOffset": 114557,
                     "endColumn": 119,
-                    "endOffset": 114671
+                    "endOffset": 114672
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5764,9 +5764,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 114676,
+                    "startOffset": 114677,
                     "endColumn": 125,
-                    "endOffset": 114797
+                    "endOffset": 114798
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5776,9 +5776,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 114802,
+                    "startOffset": 114803,
                     "endColumn": 93,
-                    "endOffset": 114891
+                    "endOffset": 114892
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5788,9 +5788,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 114896,
+                    "startOffset": 114897,
                     "endColumn": 87,
-                    "endOffset": 114979
+                    "endOffset": 114980
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5800,9 +5800,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 114984,
+                    "startOffset": 114985,
                     "endColumn": 111,
-                    "endOffset": 115091
+                    "endOffset": 115092
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5812,9 +5812,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 115096,
+                    "startOffset": 115097,
                     "endColumn": 115,
-                    "endOffset": 115207
+                    "endOffset": 115208
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5824,9 +5824,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 115212,
+                    "startOffset": 115213,
                     "endColumn": 121,
-                    "endOffset": 115329
+                    "endOffset": 115330
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5836,9 +5836,9 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 115334,
+                    "startOffset": 115335,
                     "endColumn": 111,
-                    "endOffset": 115441
+                    "endOffset": 115442
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5848,10 +5848,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 115446,
+                    "startOffset": 115447,
                     "endLine": 1505,
                     "endColumn": 12,
-                    "endOffset": 115616
+                    "endOffset": 115617
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5861,9 +5861,9 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 115621,
+                    "startOffset": 115622,
                     "endColumn": 115,
-                    "endOffset": 115732
+                    "endOffset": 115733
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5873,10 +5873,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 115737,
+                    "startOffset": 115738,
                     "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 115830
+                    "endOffset": 115831
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5886,10 +5886,10 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 115835,
+                    "startOffset": 115836,
                     "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 115942
+                    "endOffset": 115943
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5899,10 +5899,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 115947,
+                    "startOffset": 115948,
                     "endLine": 1512,
                     "endColumn": 12,
-                    "endOffset": 116066
+                    "endOffset": 116067
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5912,9 +5912,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 116071,
+                    "startOffset": 116072,
                     "endColumn": 66,
-                    "endOffset": 116133
+                    "endOffset": 116134
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5924,10 +5924,10 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 116138,
+                    "startOffset": 116139,
                     "endLine": 1515,
                     "endColumn": 12,
-                    "endOffset": 116259
+                    "endOffset": 116260
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5937,9 +5937,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 116264,
+                    "startOffset": 116265,
                     "endColumn": 67,
-                    "endOffset": 116327
+                    "endOffset": 116328
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5949,10 +5949,10 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 116332,
+                    "startOffset": 116333,
                     "endLine": 1518,
                     "endColumn": 12,
-                    "endOffset": 116455
+                    "endOffset": 116456
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5962,10 +5962,10 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 116460,
+                    "startOffset": 116461,
                     "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 116599
+                    "endOffset": 116600
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5975,10 +5975,10 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 116604,
+                    "startOffset": 116605,
                     "endLine": 1522,
                     "endColumn": 12,
-                    "endOffset": 116727
+                    "endOffset": 116728
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -5988,9 +5988,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 116732,
+                    "startOffset": 116733,
                     "endColumn": 68,
-                    "endOffset": 116796
+                    "endOffset": 116797
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6000,9 +6000,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 116801,
+                    "startOffset": 116802,
                     "endColumn": 94,
-                    "endOffset": 116891
+                    "endOffset": 116892
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6012,9 +6012,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 116896,
+                    "startOffset": 116897,
                     "endColumn": 114,
-                    "endOffset": 117006
+                    "endOffset": 117007
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6024,9 +6024,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 117011,
+                    "startOffset": 117012,
                     "endColumn": 112,
-                    "endOffset": 117119
+                    "endOffset": 117120
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6036,9 +6036,9 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 117124,
+                    "startOffset": 117125,
                     "endColumn": 98,
-                    "endOffset": 117218
+                    "endOffset": 117219
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6048,9 +6048,9 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 117223,
+                    "startOffset": 117224,
                     "endColumn": 108,
-                    "endOffset": 117327
+                    "endOffset": 117328
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6060,9 +6060,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 117332,
+                    "startOffset": 117333,
                     "endColumn": 110,
-                    "endOffset": 117438
+                    "endOffset": 117439
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6072,9 +6072,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 117443,
+                    "startOffset": 117444,
                     "endColumn": 110,
-                    "endOffset": 117549
+                    "endOffset": 117550
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6084,9 +6084,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 117554,
+                    "startOffset": 117555,
                     "endColumn": 100,
-                    "endOffset": 117650
+                    "endOffset": 117651
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6096,9 +6096,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 117655,
+                    "startOffset": 117656,
                     "endColumn": 104,
-                    "endOffset": 117755
+                    "endOffset": 117756
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6108,10 +6108,10 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 117760,
+                    "startOffset": 117761,
                     "endLine": 1534,
                     "endColumn": 12,
-                    "endOffset": 117867
+                    "endOffset": 117868
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6121,10 +6121,10 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 117872,
+                    "startOffset": 117873,
                     "endLine": 1536,
                     "endColumn": 12,
-                    "endOffset": 117997
+                    "endOffset": 117998
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6134,9 +6134,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 118002,
+                    "startOffset": 118003,
                     "endColumn": 90,
-                    "endOffset": 118088
+                    "endOffset": 118089
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6146,9 +6146,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 118093,
+                    "startOffset": 118094,
                     "endColumn": 122,
-                    "endOffset": 118211
+                    "endOffset": 118212
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6158,10 +6158,10 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 118216,
+                    "startOffset": 118217,
                     "endLine": 1540,
                     "endColumn": 12,
-                    "endOffset": 118323
+                    "endOffset": 118324
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6171,9 +6171,9 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 118328,
+                    "startOffset": 118329,
                     "endColumn": 85,
-                    "endOffset": 118409
+                    "endOffset": 118410
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6183,9 +6183,9 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 118414,
+                    "startOffset": 118415,
                     "endColumn": 103,
-                    "endOffset": 118513
+                    "endOffset": 118514
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6195,10 +6195,10 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 118518,
+                    "startOffset": 118519,
                     "endLine": 1544,
                     "endColumn": 12,
-                    "endOffset": 118621
+                    "endOffset": 118622
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6208,10 +6208,10 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 118626,
+                    "startOffset": 118627,
                     "endLine": 1546,
                     "endColumn": 12,
-                    "endOffset": 118721
+                    "endOffset": 118722
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6221,10 +6221,10 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 118726,
+                    "startOffset": 118727,
                     "endLine": 1548,
                     "endColumn": 12,
-                    "endOffset": 118839
+                    "endOffset": 118840
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6234,10 +6234,10 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 118844,
+                    "startOffset": 118845,
                     "endLine": 1550,
                     "endColumn": 12,
-                    "endOffset": 118943
+                    "endOffset": 118944
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6247,10 +6247,10 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 118948,
+                    "startOffset": 118949,
                     "endLine": 1552,
                     "endColumn": 12,
-                    "endOffset": 119047
+                    "endOffset": 119048
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6260,10 +6260,10 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 119052,
+                    "startOffset": 119053,
                     "endLine": 1554,
                     "endColumn": 12,
-                    "endOffset": 119173
+                    "endOffset": 119174
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6273,9 +6273,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 119178,
+                    "startOffset": 119179,
                     "endColumn": 87,
-                    "endOffset": 119261
+                    "endOffset": 119262
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6285,9 +6285,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 119266,
+                    "startOffset": 119267,
                     "endColumn": 89,
-                    "endOffset": 119351
+                    "endOffset": 119352
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6297,9 +6297,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 119356,
+                    "startOffset": 119357,
                     "endColumn": 109,
-                    "endOffset": 119461
+                    "endOffset": 119462
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6309,9 +6309,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 119466,
+                    "startOffset": 119467,
                     "endColumn": 83,
-                    "endOffset": 119545
+                    "endOffset": 119546
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6321,9 +6321,9 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 119550,
+                    "startOffset": 119551,
                     "endColumn": 53,
-                    "endOffset": 119599
+                    "endOffset": 119600
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6333,9 +6333,9 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 119604,
+                    "startOffset": 119605,
                     "endColumn": 121,
-                    "endOffset": 119721
+                    "endOffset": 119722
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6345,9 +6345,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 119726,
+                    "startOffset": 119727,
                     "endColumn": 105,
-                    "endOffset": 119827
+                    "endOffset": 119828
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6357,9 +6357,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 119832,
+                    "startOffset": 119833,
                     "endColumn": 109,
-                    "endOffset": 119937
+                    "endOffset": 119938
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6369,9 +6369,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 119942,
+                    "startOffset": 119943,
                     "endColumn": 83,
-                    "endOffset": 120021
+                    "endOffset": 120022
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6381,9 +6381,9 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 120026,
+                    "startOffset": 120027,
                     "endColumn": 125,
-                    "endOffset": 120147
+                    "endOffset": 120148
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml"
@@ -6393,10 +6393,10 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 120152,
+                    "startOffset": 120153,
                     "endLine": 1568,
                     "endColumn": 12,
-                    "endOffset": 120358
+                    "endOffset": 120359
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -6406,10 +6406,10 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 120363,
+                    "startOffset": 120364,
                     "endLine": 1575,
                     "endColumn": 12,
-                    "endOffset": 120833
+                    "endOffset": 120834
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -6419,10 +6419,10 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 120838,
+                    "startOffset": 120839,
                     "endLine": 1578,
                     "endColumn": 12,
-                    "endOffset": 120992
+                    "endOffset": 120993
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -6432,10 +6432,10 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 120997,
+                    "startOffset": 120998,
                     "endLine": 1587,
                     "endColumn": 12,
-                    "endOffset": 121531
+                    "endOffset": 121532
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -6445,10 +6445,10 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 121536,
+                    "startOffset": 121537,
                     "endLine": 1593,
                     "endColumn": 12,
-                    "endOffset": 121878
+                    "endOffset": 121879
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -6458,10 +6458,10 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 121883,
+                    "startOffset": 121884,
                     "endLine": 1596,
                     "endColumn": 12,
-                    "endOffset": 122007
+                    "endOffset": 122008
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -6471,10 +6471,10 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 122012,
+                    "startOffset": 122013,
                     "endLine": 1606,
                     "endColumn": 12,
-                    "endOffset": 122702
+                    "endOffset": 122703
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -6484,10 +6484,10 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 122707,
+                    "startOffset": 122708,
                     "endLine": 1610,
                     "endColumn": 12,
-                    "endOffset": 122882
+                    "endOffset": 122883
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -6497,10 +6497,10 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 122887,
+                    "startOffset": 122888,
                     "endLine": 1614,
                     "endColumn": 12,
-                    "endOffset": 123132
+                    "endOffset": 123133
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values\\values.xml"
@@ -6510,10 +6510,10 @@
                 "to": {
                     "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 123137,
+                    "startOffset": 123138,
                     "endLine": 1617,
                     "endColumn": 9,
-                    "endOffset": 123280
+                    "endOffset": 123281
                 },
                 "from": {
                     "file": "C:\\Users\\jim\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\values\\styles.xml"
