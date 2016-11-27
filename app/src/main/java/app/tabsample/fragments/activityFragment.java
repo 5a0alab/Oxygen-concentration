@@ -46,7 +46,7 @@ public class activityFragment extends Fragment{
 
         setView(view);
         setListener(view);
-
+        Log.d("bug", "-----------------------------------------------redraw picture: ");
         addData();
         EntriesData();
 
@@ -68,7 +68,7 @@ public class activityFragment extends Fragment{
     //data setting
     public void addData(){
         for (int i = 0; i < 24; i++) {
-            activity[i]=(int)(Math.random()*1500);
+            activity[i]=(int)(Math.sqrt(i)*100-i*i+14);
             //設定bar顏色
             //activityBarColor[i]= setBarColor(activity[i]);
         }
