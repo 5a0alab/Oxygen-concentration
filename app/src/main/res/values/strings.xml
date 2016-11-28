@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status">今日狀態良好</string>
+    <string name="app_name"></string>
+    <string name="activity">活動量</string>
+
+    <string name="homepageName">個人狀態</string>
+    <string name="activityName">活動量</string>
+    <string name="spoName">血氧心跳量</string>
+    <string name="noteName">健康小助手</string>
+
+    <string-array name="Spinner_Content">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+    </string-array>
+</resources>
