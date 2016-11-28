@@ -4,12 +4,12 @@
         "source": "C:\\Users\\JIM\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\JIM\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\JIM\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "C:\\Users\\JIM\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\heart_layout.xml",
         "source": "C:\\Users\\JIM\\Desktop\\Oxygen-concentration\\app\\src\\main\\res\\layout\\heart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\JIM\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\JIM\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "C:\\Users\\JIM\\Desktop\\Oxygen-concentration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
